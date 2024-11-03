@@ -1,4 +1,6 @@
-<a href="https://akshat0502.github.io/Weather-App/" style="text-decoration: none;"><b>Weather App</b></a>
+<h1>
+    <a href="https://akshat0502.github.io/Weather-App/" style="text-decoration: none;"><b>Weather App</b></a>
+</h1>
     <br><br><br>
     <p>For a <b> Weather App Project</b> using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and a <b>Weather API</b> the goal is to create a web app that fetches real-time weather data based on the user's location or search query. The project will use JavaScript to fetch data from a weather API (like OpenWeatherMap) and display the weather information dynamically on the web page.</p>
     <p>
